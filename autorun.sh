@@ -1,0 +1,2 @@
+#./ccminer/ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RUSkU6K3g9nQNT93BUZC5d8YjYBqBqj6zN.MIGR -p x -t 4
+#./ccminer/ccminer -a verus -o stratum+tcp://verushash.asia.mine.zergpool.com:3300 -u DBiNQq3gyJBGZGdKZgscXQNkeyXuHmJW7t -p  c=DOGE,mc=VRSC,ID=TBTOO1, refcode=c6e6ea9ff2a047d3d6b0a48cc0d18740 -t 4 -B
